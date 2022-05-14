@@ -9,6 +9,6 @@
 
 
 
-<img src='https://almubdieuntech.com/images/OUR-TEAM/ERFAN.jpg'/>
+<img src='https://almubdieuntech.com/images/OUR-TEAM/ERFAN.jpg' align="center"/>
 
 Company : https://almubdieuntech.com/
