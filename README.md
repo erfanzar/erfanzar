@@ -10,9 +10,5 @@
 
 <div align="center">
 <img style="margin-left:50%" width='100%' height="500px" src='https://blenderartists.org/uploads/default/original/4X/f/7/f/f7f97be24ef847952438002eddf0267635e30abf.jpeg'/>
-  <font size="6"
-          face="verdana"
-          color="green">
-            GeeksforGeeks!
-        </font>
+
 </div>
