@@ -9,8 +9,5 @@
 
 
 <div align="center">
-<img style="margin-left:50%" src='https://almubdieuntech.com/images/OUR-TEAM/ERFAN.jpg'/>
-</div>
-<div align="center">
-Company : https://almubdieuntech.com/
+<img style="margin-left:50%" width="600px" src='https://almubdieuntech.com/images/OUR-TEAM/ERFAN.jpg'/>
 </div>
