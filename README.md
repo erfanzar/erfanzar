@@ -9,5 +9,5 @@
 
 
 <div align="center">
-<img style="margin-left:50%" src='https://almubdieuntech.com/images/OUR-TEAM/ERFAN.jpg'/>
+<img style="margin-left:50%" width='100%' height="300px" src='https://europeantimes.b-cdn.net/wp-content/uploads/2021/10/Milky-Way.jpg'/>
 </div>
