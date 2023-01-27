@@ -6,8 +6,7 @@
 -   and finaly i have created an object detection library but i think im the only one who use it (work with 70 accuracy and 40 fps on rtx 2080 ti :| )
 - 📫 How to reach me Email erfanzare82@yahoo.com
 
-
-
+- right now im trying to create an NLP model Called PTT (PoetryTrainedTransformers) and train the model and i think it's kinda perform well (like GPTv1 but going to improve performance) and trying to create an Ai that can talk with you through stormy nights <3
 <div align="center">
 <img style="margin-left:50%" width='100%' height="500px" src='https://blenderartists.org/uploads/default/original/4X/f/7/f/f7f97be24ef847952438002eddf0267635e30abf.jpeg'/>
 
