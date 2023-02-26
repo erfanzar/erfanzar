@@ -10,6 +10,11 @@
 - right now im trying to create an NLP model Called PTT (PoetryTrainedTransformers) and train the model and i think it's kinda perform well (like GPTv1 but going to improve performance) and trying to create an Ai that can talk with you through stormy nights <3 🚀
 - [PTT-PoetryTrainedTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
 
+- and one thing that im kinda like that myself is CreativeGAN 
+- you can check that too down here 
+- [CreativeGAN 🚀](https://github.com/erfanzar/CreativeGAN)
+
+
 - i also have an object detection model that im kinda proud of it but im fcoused on PTT right not tbh you can check that one also here 🚀
 - [ObjD 🚀](https://github.com/erfanzar/ObjD)
 
