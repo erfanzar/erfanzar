@@ -7,7 +7,8 @@
 -   and finaly i have created an object detection library but i think im the only one who use it (work with 70 accuracy and 40 fps on rtx 2080 ti :| ) -->
 - 📫 How to reach me Email erfanzare82@yahoo.com
 
-- right now im trying to create an NLP model Called PTT (PoetryTrainedTransformers) and train the model and i think it's kinda perform well (like GPTv1 but going to improve performance) and trying to create an Ai that can talk with you through stormy nights <3 🚀
+- PTT is a model Collection that includes some models that perform well and its open source and the weights are available to
+
 - [PTT-PoetryTrainedTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
 
 - and one thing that im kinda like that myself is CreativeGAN 
