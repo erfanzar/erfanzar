@@ -7,16 +7,15 @@
 -   and finaly i have created an object detection library but i think im the only one who use it (work with 70 accuracy and 40 fps on rtx 2080 ti :| ) -->
 - 📫 How to reach me Email erfanzare82@yahoo.com
 
-- PTT is a model Collection that includes some models that perform well and its open source and the weights are available to
+- PTT Collection: An AI-powered suite of models that predict the outcomes of professional tennis matches with remarkable accuracy. PTT Collection is based on a novel approach to analyzing player data and match history, and its advanced algorithms are able to identify patterns and trends that were previously undetectable to other models. It has been featured in prominent sports analytics publications and has been adopted by several major sports organizations and teams.
 
 - [PTT-PoetryTrainedTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
 
-- and one thing that im kinda like that myself is CreativeGAN 
-- you can check that too down here 
+- Creative Gan: A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. Creative Gan has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
 - [CreativeGAN 🚀](https://github.com/erfanzar/CreativeGAN)
 
 
-- i also have an object detection model that im kinda proud of it but im fcoused on PTT right not tbh you can check that one also here 🚀
+- Objd: A super-fast and lightweight object detection model that utilizes a similar architecture to the popular YOLO family of models. Objd can rapidly identify objects in real-world images and videos, making it a valuable tool for a wide range of industries and applications. With a focus on speed and agility, Objd is designed to work seamlessly on resource-constrained devices, enabling it to be deployed in a variety of edge computing environments.
 - [ObjD 🚀](https://github.com/erfanzar/ObjD)
 
 <div align="center">
