@@ -7,7 +7,7 @@
 -   and finaly i have created an object detection library but i think im the only one who use it (work with 70 accuracy and 40 fps on rtx 2080 ti :| ) -->
 - 📫 How to reach me Email erfanzare82@yahoo.com
 
-- PTT Collection: An AI-powered suite of models that predict the outcomes of professional tennis matches with remarkable accuracy. PTT Collection is based on a novel approach to analyzing player data and match history, and its advanced algorithms are able to identify patterns and trends that were previously undetectable to other models. It has been featured in prominent sports analytics publications and has been adopted by several major sports organizations and teams.
+- PTT Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). PTT Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
 - [PTT-PoetryTrainedTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
 
