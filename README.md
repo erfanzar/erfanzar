@@ -11,6 +11,10 @@
 - [CreativeGAN 🚀](https://github.com/erfanzar/CreativeGAN)
 
 
+- YOLOvision : YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
+- [YOLOvision 🚀](https://github.com/erfanzar/YOLOvision)
+
+
 - Objd: A super-fast and lightweight object detection model that utilizes a similar architecture to the popular YOLO family of models. Objd can rapidly identify objects in real-world images and videos, making it a valuable tool for a wide range of industries and applications. With a focus on speed and agility, Objd is designed to work seamlessly on resource-constrained devices, enabling it to be deployed in a variety of edge computing environments.
 - [ObjD 🚀](https://github.com/erfanzar/ObjD)
 
