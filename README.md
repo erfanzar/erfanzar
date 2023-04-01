@@ -2,6 +2,7 @@
 👋 Hi, I’m erfan zare<br>👀I like to train deep neural nets on large datasets 🧠. Among other things in this world
 
 - 📫 How to reach me Email erfanzare82@yahoo.com
+- Linkedin [erfan 🚀](https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/)
 
 - OST Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
