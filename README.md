@@ -3,12 +3,12 @@
 
 - 📫 How to reach me Email erfanzare82@yahoo.com
 
-- PTT Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). PTT Collection is based on a novel approach to work as a full and intelligent NLP Model.
+- OST Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
-- [PTT-PoetryTrainedTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
+- [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
 
-- Creative Gan: A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. Creative Gan has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
-- [CreativeGAN 🚀](https://github.com/erfanzar/CreativeGAN)
+- StableGAN : A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
+- [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN)
 
 
 - YOLOvision : YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
