@@ -5,7 +5,7 @@
 
 - OST Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
-- [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/PTT-PoetryTrainedTransformers)
+- [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/OST-OpenSourceTransformers)
 
 - StableGAN : A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
 - [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN)
