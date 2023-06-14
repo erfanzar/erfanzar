@@ -8,11 +8,13 @@
 
 - [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/OST-OpenSourceTransformers)
 
-- StableGAN : A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
+- StableGAN: A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
 - [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN)
 
+- EasyDeL: EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU`
+[EasyDeL 🚀](https://github.com/erfanzar/EasyDeL)
 
-- YOLOvision : YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
+- YOLOvision: YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
 - [YOLOvision 🚀](https://github.com/erfanzar/YOLOvision)
 
 
