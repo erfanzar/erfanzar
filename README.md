@@ -12,8 +12,7 @@
 - [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN)
 
 - EasyDeL: EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU`.
-- 
-[EasyDeL 🚀](https://github.com/erfanzar/EasyDeL)
+- [EasyDeL 🚀](https://github.com/erfanzar/EasyDeL)
 
 - YOLOvision: YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
 - [YOLOvision 🚀](https://github.com/erfanzar/YOLOvision)
