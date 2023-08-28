@@ -1,5 +1,5 @@
 # 💫 About Me:
-NLP: I manipulate text. CV: I manipulate images. Graph ML: hold my beer! 🍺
+NLP: I manipulate text. CV: I manipulate images. Graph ML: hold my beer! 🍺<br>
 👋 Hi, I’m erfan zare<br>👀I like to train deep neural nets on large datasets 🧠. Among other things in this world
 
 - 📫 How to reach me Email erfanzare82@yahoo.com
