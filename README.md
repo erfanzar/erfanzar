@@ -25,7 +25,6 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 
 
 
-
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Erfun07324313) 
 
@@ -43,9 +42,10 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
  src="https://camo.githubusercontent.com/d30790fb651e2aec76b1875851248120292678e4d390c8126868781d6836a64f/68747470733a2f2f63646e2e6f70656e61692e636f6d2f747269746f6e2f6173736574732f747269746f6e2d6c6f676f2e706e67" />
 <br />
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erfanzar&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=erfanzar&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
 ### ✍️ Random Dev Quote
