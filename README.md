@@ -5,22 +5,7 @@ NLP: I manipulate text. CV: I manipulate images. Graph ML: hold my beer! 🍺<br
 - 📫 How to reach me Email erfanzare82@yahoo.com
 - Linkedin [erfan 🚀](https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/)
 
-- OST Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
-- [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/OST-OpenSourceTransformers)
-
-- StableGAN: A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
-- [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN)
-
-- EasyDeL: EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU`.
-- [EasyDeL 🚀](https://github.com/erfanzar/EasyDeL)
-
-- YOLOvision: YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
-- [YOLOvision 🚀](https://github.com/erfanzar/YOLOvision)
-
-
-- Objd: A super-fast and lightweight object detection model that utilizes a similar architecture to the popular YOLO family of models. Objd can rapidly identify objects in real-world images and videos, making it a valuable tool for a wide range of industries and applications. With a focus on speed and agility, Objd is designed to work seamlessly on resource-constrained devices, enabling it to be deployed in a variety of edge computing environments.
-- [ObjD 🚀](https://github.com/erfanzar/ObjD)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Erfun07324313) 
@@ -42,4 +27,21 @@ NLP: I manipulate text. CV: I manipulate images. Graph ML: hold my beer! 🍺<br
 ---
 [![](https://visitcount.itsvg.in/api?id=erfanzar&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<detaild>
+<summery><h3>My OpenSource Projects🧠</h3></summery>
+- OST Collection: An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
+
+- [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/OST-OpenSourceTransformers)
+
+- StableGAN: A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
+- [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN)
+
+- EasyDeL: EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU`.
+- [EasyDeL 🚀](https://github.com/erfanzar/EasyDeL)
+
+- YOLOvision: YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
+- [YOLOvision 🚀](https://github.com/erfanzar/YOLOvision)
+
+
+- Objd: A super-fast and lightweight object detection model that utilizes a similar architecture to the popular YOLO family of models. Objd can rapidly identify objects in real-world images and videos, making it a valuable tool for a wide range of industries and applications. With a focus on speed and agility, Objd is designed to work seamlessly on resource-constrained devices, enabling it to be deployed in a variety of edge computing environments.
+- [ObjD 🚀](https://github.com/erfanzar/ObjD)
