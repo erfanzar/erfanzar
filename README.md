@@ -40,8 +40,11 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 <img align="left" alt="Flax" width="40px" style="padding-right:10px; padding-top:10px;" src="https://raw.githubusercontent.com/google/flax/bec1c80dd86bfc5b76a81410b7ed4d340e41af49/images/flax_logo.svg" />
 <img align="left" alt="Triton" width="40px" style="padding-right:10px; padding-top:10px;" 
  src="https://camo.githubusercontent.com/d30790fb651e2aec76b1875851248120292678e4d390c8126868781d6836a64f/68747470733a2f2f63646e2e6f70656e61692e636f6d2f747269746f6e2f6173736574732f747269746f6e2d6c6f676f2e706e67" />
-<br />
+<img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
+
+<br>
+ 
 
 ### 📊 GitHub Stats:
 
