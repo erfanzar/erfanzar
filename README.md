@@ -23,7 +23,6 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 
 - [ObjD 🚀](https://github.com/erfanzar/ObjD): A super-fast and lightweight object detection model that utilizes a similar architecture to the popular YOLO family of models. Objd can rapidly identify objects in real-world images and videos, making it a valuable tool for a wide range of industries and applications. With a focus on speed and agility, Objd is designed to work seamlessly on resource-constrained devices, enabling it to be deployed in a variety of edge computing environments.
 
-- [LlamaCPP 🚀](https://github.com/erfanzar/LlamaCPP): LlamaCPP is an Open-source python binding for [`llama.cpp`](https://github.com/ggerganov/llama.cpp) which comes with a lot of pre-trained Models that can fit on any consumer device and act like a virtual-assistant and give you some low-level and high-level API usages in python as API port in C++
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Erfun07324313) 
