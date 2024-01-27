@@ -25,7 +25,7 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Erfun07324313) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-zare-chavoshi-908258239/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Erfun07324313) 
 
 ### 💻 My Tools:
 <img align="left" alt="Jax" width="40px" style="max-width: 100%;margin-top:10px;" src="https://raw.githubusercontent.com/google/jax/366a16f8ba59fe1ab59acede7efd160174134e01/images/jax_logo.svg" />
