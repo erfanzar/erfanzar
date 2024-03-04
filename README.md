@@ -12,7 +12,7 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 
 - [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/OST-OpenSourceTransformers) : An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
-- [StableGAN 🚀](https://github.com/erfanzar/CreativeGAN): A cutting-edge text-to-image generator model that leverages state-of-the-art generative adversarial networks (GANs)(Stable Diffustion) to produce high-quality, realistic images based on textual input. StableGAN has received accolades from leading AI and tech industry publications and has been downloaded and used extensively by developers in the machine learning community.
+- [InstinctiveDiffuse 🚀](https://github.com/erfanzar/InstinctiveDiffuse): A cutting-edge text-to-image generator model that leverages state-of-the-art Stable Diffusion Model Type to produce high-quality, realistic images based on textual input.
 
 
 - [EasyDeL 🚀](https://github.com/erfanzar/EasyDeL): EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU` Both on Python and Mojo 🔥.
