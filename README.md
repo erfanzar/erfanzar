@@ -9,19 +9,18 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 
 ### My OpenSource Projects🧠
    
+- [EasyDeL 🚀](https://github.com/erfanzar/EasyDeL): EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU` Both on Python and Mojo 🔥.
+
 
 - [OST-OpenSourceTransformers 🚀](https://github.com/erfanzar/OST-OpenSourceTransformers) : An AI-powered suite of models that predict the next word matches with remarkable accuracy (Text Generative Models). OST Collection is based on a novel approach to work as a full and intelligent NLP Model.
 
 - [InstinctiveDiffuse 🚀](https://github.com/erfanzar/InstinctiveDiffuse): A cutting-edge text-to-image generator model that leverages state-of-the-art Stable Diffusion Model Type to produce high-quality, realistic images based on textual input.
 
 
-- [EasyDeL 🚀](https://github.com/erfanzar/EasyDeL): EasyDeL (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on Jax/Flax and plans to offer easy and fine solutions to train Flax/Jax Models on the `TPU/GPU` Both on Python and Mojo 🔥.
-
-
 - [YOLOvision 🚀](https://github.com/erfanzar/YOLOvision): YOLOvision is an AI project that includes state-of-the-art object detection and instance segmentation models. The models are part of the YOLO (You Only Look Once) family, which is a group of models that use deep learning to perform real-time object detection, classification, and localization. with available weights
 
 
-- [ObjD 🚀](https://github.com/erfanzar/ObjD): A super-fast and lightweight object detection model that utilizes a similar architecture to the popular YOLO family of models. Objd can rapidly identify objects in real-world images and videos, making it a valuable tool for a wide range of industries and applications. With a focus on speed and agility, Objd is designed to work seamlessly on resource-constrained devices, enabling it to be deployed in a variety of edge computing environments.
+- [FJFormer 🚀](https://github.com/erfanzar/FJFormer): Embark on a journey of paralleled/unparalleled computational prowess with FJFormer - an arsenal of custom Jax Flax Functions and Utils that elevate your AI endeavors to new heights!
 
 
 ### 🌐 Socials:
