@@ -31,14 +31,9 @@ i work in fields of Natural Language Processing ,Computer Vision and Graph ML
 <img align="left" alt="Flax" width="40px" style="padding-right:10px; padding-top:10px;" src="https://raw.githubusercontent.com/google/flax/bec1c80dd86bfc5b76a81410b7ed4d340e41af49/images/flax_logo.svg" />
 <img align="left" alt="Triton" width="40px" style="padding-right:10px; padding-top:10px;"  src="https://camo.githubusercontent.com/9fdb8d5be08faf1f587c1aa53417534e0f631b42cca30a7100b02f74f3ae0952/68747470733a2f2f63646e2e6f70656e61692e636f6d2f747269746f6e2f6173736574732f747269746f6e2d6c6f676f2e706e67" />
 <img align="left" alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Lua" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
-
-<img align="left" alt="Numpy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-
 
 <br>
  
